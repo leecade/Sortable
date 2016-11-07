@@ -6,7 +6,7 @@
     "grunt": "*",
     "grunt-version": "*",
     "grunt-exec": "*",
-    "grunt-contrib-jshint": "0.9.2",
+    "grunt-contrib-jshint": "1.0.0",
     "grunt-contrib-uglify": "*",
     "spacejam": "*"
   },
